@@ -1,0 +1,46 @@
+﻿  buttonController.cpp
+  buttonModel.cpp
+  buttonView.cpp
+I:\WINAPI_projects\windowstest\windowstest\buttonView.cpp(6,12): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  comboboxController.cpp
+  comboboxModel.cpp
+  comboboxView.cpp
+I:\WINAPI_projects\windowstest\windowstest\comboboxView.cpp(7,11): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  dataSequenсe.cpp
+  editController.cpp
+  editModel.cpp
+  editView.cpp
+I:\WINAPI_projects\windowstest\windowstest\editView.cpp(6,10): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  EventQueue.cpp
+  filteredSequenсe.cpp
+  interfaceDriver.cpp
+  interfaceFactoryMethod.cpp
+  interfaceChainOfCommand.cpp
+  interfaceController.cpp
+  interfaceDataLocality.cpp
+  interfaceDecorator.cpp
+  exampleEventQueue.cpp
+  interfaceFasade.cpp
+  Создание кода...
+  Компиляция...
+  exampleGameLoop.cpp
+  exampleMemento.cpp
+  interfaceModel.cpp
+  interfaceObservable.cpp
+  interfaceObserver.cpp
+  exampleSingleton.cpp
+  interfaceSubclassSandbox.cpp
+  interfaceView.cpp
+  interfaceWidget.cpp
+  layerUI.cpp
+  listboxController.cpp
+  listboxModel.cpp
+  listboxView.cpp
+I:\WINAPI_projects\windowstest\windowstest\listboxView.cpp(6,13): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  radiobuttonController.cpp
+  radiobuttonModel.cpp
+  radiobuttonView.cpp
+I:\WINAPI_projects\windowstest\windowstest\radiobuttonView.cpp(6,11): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  windowstest.cpp
+  Создание кода...
+  windowstest.vcxproj -> I:\WINAPI_projects\windowstest\x64\Debug\windowstest.exe
